@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 #Shephertz
-#DCS
+#DCS diatm
 gem 'rails', '3.2.13'
 
 # Bundle edge Rails instead:
